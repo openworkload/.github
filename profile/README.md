@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are an open community which goal is to develop a new standard for modern distributed computing. See [our web site](http://openworkload.org).
+We are an open community which goal is to develop a new standard for modern distributed computing. See [our web site](https://openworkload.github.io).
 
 
 ## Contributing
